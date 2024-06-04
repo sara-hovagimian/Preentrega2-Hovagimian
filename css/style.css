@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    font-family: 'Roboto';
+    line-height: 2rem;
+    padding-left: 0.5rem;
+}
+h1{
+    line-height: 3rem;
+    padding-bottom: 1rem;
+}
+h3{
+    line-height: 2.8rem; 
+}
